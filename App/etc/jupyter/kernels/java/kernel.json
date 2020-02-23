@@ -1,0 +1,12 @@
+{
+    "argv": [
+        "java",
+        "-jar",
+        "C:\\ProgramData\\jupyter\\kernels\\java/ijava-1.3.0.jar",
+        "{connection_file}"
+    ],
+    "display_name": "Java",
+    "env": {},
+    "interrupt_mode": "message",
+    "language": "java"
+}
